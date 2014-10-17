@@ -4,7 +4,7 @@ from DataStore import *
 from ReadData import *
 from JobManager import *
 from Network import *
-from Generate_Grid import *
+#from Generate_Grid import *
 from ReadConfig import *
 from AnalyzeResults import *
 

@@ -7,7 +7,7 @@ from DataStore import *
 from ReadData import *
 from JobManager import *
 from Network import *
-from Generate_Grid import *
+#from Generate_Grid import *
 
 from mcz import *
 from convex_optimization import *

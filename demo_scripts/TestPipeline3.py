@@ -7,7 +7,7 @@ from DataStore import *
 from ReadData import *
 from JobManager import *
 from Network import *
-from Generate_Grid import *
+#from Generate_Grid import *
 
 from tdaracne import *
 from dfg4grn import *

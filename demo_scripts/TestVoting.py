@@ -8,7 +8,7 @@ from DataStore import *
 from ReadData import *
 from JobManager import *
 from Network import *
-from Generate_Grid import *
+#from Generate_Grid import *
 from AnalyzeResults import *
 
 from mcz import *
