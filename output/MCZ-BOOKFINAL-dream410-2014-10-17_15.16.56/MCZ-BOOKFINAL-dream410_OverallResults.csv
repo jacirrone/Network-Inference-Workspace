@@ -1,0 +1,2 @@
+ExpName,tn,fp,fn,specificity,recall,sensitivity,precision,tp,accuracy,auroc,aupr
+MCZ,10,82,0,0.108695652174,1.0,1.0,0.0888888888889,8,0.18,0.505882352941,0.410061279078
